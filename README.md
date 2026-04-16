@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently doing BCA from manipal university jaipur indianate .<br>I am passionate about AI /Ml and  webdeveloping .<br>I build many projects to local clients.
+I am currently doing BCA from manipal university jaipur india .<br>I am passionate about AI /ML and  web-development .<br>I build many projects to local clients.
 
 
 ## 🌐 Socials:
